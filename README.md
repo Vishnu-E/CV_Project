@@ -4,20 +4,7 @@
 [![youtube](https://img.shields.io/badge/video-Youtube-white?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=CMjxtElp9g4)
 
 
-<div align="center">
-  <a href="https://zero1778.github.io" target="_blank">Bang-Dang&nbsp;Pham</a> &emsp; <b>&middot;</b> &emsp;
-  <a href="https://p0lyfish.github.io/portfolio/" target="_blank">Phong&nbsp;Tran</a> &emsp; 
-  <b>&middot;</b> &emsp;
-  <a href="https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en" target="_blank">Anh&nbsp;Tran</a> &emsp; 
-  <b>&middot;</b> &emsp;
-  <a href="https://sites.google.com/view/cuongpham/home" target="_blank">Cuong&nbsp;Pham</a> &emsp; 
-  <b>&middot;</b> &emsp;
-  <a href="https://rangnguyen.github.io/" target="_blank">Rang&nbsp;Nguyen</a> &emsp; 
-  <b>&middot;</b> &emsp;
-  <a href="https://gshoai.github.io" target="_blank">Minh&nbsp;Hoai</a> &emsp; 
-  <br> <br>
-  <a href="https://www.vinai.io/">VinAI Research, Vietnam</a>
-</div>
+
 
 <br>
 <div align="center">
